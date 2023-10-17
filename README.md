@@ -1,2 +1,2 @@
-# souzaanimagames
-Site para aprendizagem
+# animagames
+Estudo de JavaScript para Mobile.
